@@ -1,0 +1,18 @@
+h1.C1{
+    background-color: darkblue;
+    color: aliceblue;
+}
+h2.C2 {
+    background-color: bisque;
+    color: black;
+}
+
+p.style {
+    background-color: rgb(12, 12, 10);
+    color: azure;
+}
+
+#css {
+    background-color: rgb(114, 114, 245);
+    color: beige;
+}
